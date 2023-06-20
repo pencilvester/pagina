@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Prueba",
+    "description": "",
+    "home_page_url": "https://pencilvester.github.io/pagina",
+    "feed_url": "https://pencilvester.github.io/pagina/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Il Choto"
+    },
+    "items": [
+        {
+            "id": "https://pencilvester.github.io/pagina/hello-puts.html",
+            "url": "https://pencilvester.github.io/pagina/hello-puts.html",
+            "title": "Hello Puts",
+            "summary": "Halo Halo Este es el blog El blog de la buena onda",
+            "content_html": "<p>Halo Halo </p>\n<p>Este es el blog</p>\n<p>El blog de la buena onda</p>",
+            "author": {
+                "name": "Il Choto"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-06-19T21:40:12+02:00",
+            "date_modified": "2023-06-19T21:51:23+02:00"
+        }
+    ]
+}
